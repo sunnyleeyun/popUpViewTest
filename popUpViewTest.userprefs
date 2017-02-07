@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{40026007-CAD2-46FA-8209-920756A1BFBB}|Default">
+  <MonoDevelop.Ide.ItemProperties.popUpViewTest.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="popUpViewTest/popUpViewTestPage.xaml.cs">
+    <Files>
+      <File FileName="popUpViewTest/App.xaml" Line="1" Column="1" />
+      <File FileName="popUpViewTest/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="popUpViewTest/popUpViewTestPage.xaml.cs" Line="14" Column="37" />
+      <File FileName="popUpViewTest/popUpViewTestPage.xaml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.popUpViewTest.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.92D2E570-63DD-4AA0-B18E-3C29E752DEA8" />
+</Properties>
